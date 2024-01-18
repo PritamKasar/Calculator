@@ -1,0 +1,49 @@
+.center{
+    flex-wrap: nowrap;
+    
+}
+.row input{ 
+    margin: 1%;
+    padding: 0px 0px;
+    border-color: blueviolet;
+    border-radius: 13%;
+    text-align: justify;
+    font-size: 41px;
+    
+}
+   
+.center{
+    
+    text-align: center;
+}
+.one{
+    font-size: 400%;
+    margin: 1%;
+    padding: 8%;
+    border-color: blueviolet;
+    border: 9%;
+    border-radius: 40%;
+    
+}
+
+.two button{
+    font-size: 41px;
+    margin: 1%;
+    padding: 20px 31px;
+    border-color: blueviolet;
+    border: 9%;
+    border-radius: 40%;
+    cursor: pointer;
+    
+}
+.make{
+    font-size: 75px;
+    color: blueviolet;
+}
+.flex{
+    display: flex;
+    margin: 0%;
+}
+.f-c{
+   flex-direction: column; 
+}
